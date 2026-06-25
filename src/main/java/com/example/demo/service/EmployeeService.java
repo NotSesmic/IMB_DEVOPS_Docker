@@ -13,7 +13,7 @@ public class EmployeeService {
     private final List<Employee> employees = new ArrayList<>();
  
     public EmployeeService() {
-        employees.add(new Employee(1, "Senthur", "DevOps", 50000));
+        employees.add(new Employee(1, "Senthur", "DevOps", 500000));
         employees.add(new Employee(2, "John", "Testing", 45000));
     }
  
